@@ -9,7 +9,12 @@ Run awk-Skript on shell with
 *  ./generate.awk
 *  awk -f generate.awk
 
-How to read the generated file expectation_roll.txt 
+or use the already computed [expectation_roll.txt](expectation_roll.txt) 
+
+If you user other rules, please try to adapt [rules.txt](rules.txt)
+
+# How to read
+The generated file [expectation_roll.txt](expectation_roll.txt) is read as follows.
 
     250 245 300.0 select-5-end
 
