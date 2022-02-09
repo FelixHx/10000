@@ -1,6 +1,6 @@
 # Column 1: Selected Dices 
 # Column 2: Points
-# Column 3: "bewiesen" yes/no
+# Column 3: "bewiesen" yes/no (In our rules, you need at least an additional 1 or 5 if you have a triple or street, otherwise you have to continue rolling)
 1       100 y
 5        50 y
 111    1000 n
